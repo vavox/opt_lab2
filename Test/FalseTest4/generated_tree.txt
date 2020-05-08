@@ -1,0 +1,14 @@
+Tree:
+
+|__<signal program>
+    |__<program>
+        |__401 PROGRAM
+        |__<procedure-identifier>
+        |   |__<identifier>
+        |       |__1001 MSSV
+        |__59 ;
+        |__<block>
+            |__<declarations>
+                |__<label-declarations>
+                    |__405 LABEL
+                    |__<unsigned-integer>

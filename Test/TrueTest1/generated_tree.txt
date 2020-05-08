@@ -1,0 +1,32 @@
+Tree:
+
+|--<signal program>
+    |--<program>
+        |--402 PROCEDURE
+        |--<procedure-identifier>
+        |   |--<identifier>
+        |       |--1001 SCS
+        |--<procedure-list>
+        |   |--40 (
+        |   |--<declaration-list>
+        |   |   |--<empty>
+        |   |--41 )
+        |--59 ;
+        |--<block>
+        |   |--<declarations>
+        |   |   |--<label-declarations>
+        |   |       |--405 LABEL
+        |   |       |--<unsigned-integer>
+        |   |       |   |--501 '12'
+        |   |       |--<labels-list>
+        |   |       |   |--44 ,
+        |   |       |   |--<unsigned-integer>
+        |   |       |   |   |--502 '14'
+        |   |       |   |--<labels-list>
+        |   |       |       |--<empty>
+        |   |       |--59 ;
+        |   |--403 BEGIN
+        |   |--<statements-list>
+        |   |   |--<empty>
+        |   |--404 END
+        |--59 ;

@@ -1,0 +1,5 @@
+PROGRAM UUI;
+    LABEL 55, 78
+    BEGIN
+
+    END.

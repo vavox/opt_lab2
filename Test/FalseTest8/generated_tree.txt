@@ -1,0 +1,21 @@
+Tree:
+
+|--<signal program>
+    |--<program>
+        |--401 PROGRAM
+        |--<procedure-identifier>
+        |   |--<identifier>
+        |       |--1001 UUI
+        |--59 ;
+        |--<block>
+            |--<declarations>
+                |--<label-declarations>
+                    |--405 LABEL
+                    |--<unsigned-integer>
+                    |   |--501 '55'
+                    |--<labels-list>
+                        |--44 ,
+                        |--<unsigned-integer>
+                        |   |--502 '78'
+                        |--<labels-list>
+                            |--<empty>

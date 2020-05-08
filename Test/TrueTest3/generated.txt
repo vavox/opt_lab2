@@ -1,0 +1,11 @@
+|PROGRAM     | 401  | 1    | 1    |
+|MSSV        | 1001 | 1    | 9    |
+|;           | 59   | 1    | 13   |
+|BEGIN       | 403  | 3    | 5    |
+|END         | 404  | 5    | 5    |
+|.           | 46   | 5    | 8    |
+
+Constant table:
+
+Identifier table:
+MSSV --- 1001

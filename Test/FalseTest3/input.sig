@@ -1,0 +1,5 @@
+PROCEDURE (;
+    LAEBL 55;
+    BEGIN
+
+    END.

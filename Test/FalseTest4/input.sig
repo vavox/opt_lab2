@@ -1,0 +1,5 @@
+PROGRAM MSSV;
+    LABEL ;
+    BEGIN
+
+    END.

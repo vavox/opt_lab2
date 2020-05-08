@@ -1,0 +1,23 @@
+Tree:
+
+|--<signal program>
+    |--<program>
+        |--402 PROCEDURE
+        |--<procedure-identifier>
+        |   |--<identifier>
+        |       |--1001 DDF
+        |--<procedure-list>
+        |   |--40 (
+        |   |--<declaration-list>
+        |   |   |--<empty>
+        |   |--41 )
+        |--59 ;
+        |--<block>
+            |--<declarations>
+                |--<label-declarations>
+                    |--405 LABEL
+                    |--<unsigned-integer>
+                    |   |--501 '55'
+                    |--<labels-list>
+                    |   |--<empty>
+                    |--59 ;

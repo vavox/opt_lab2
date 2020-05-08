@@ -1,0 +1,23 @@
+Tree:
+
+|__<signal program>
+    |__<program>
+        |__402 PROCEDURE
+        |__<procedure-identifier>
+        |   |__<identifier>
+        |       |__1001 KKL
+        |__<procedure-list>
+        |   |__40 (
+        |   |__<declaration-list>
+        |   |   |__<empty>
+        |   |__41 )
+        |__59 ;
+        |__<block>
+        |   |__<declarations>
+        |   |   |__<label-declarations>
+        |   |       |__<empty>
+        |   |__403 BEGIN
+        |   |__<statements-list>
+        |   |   |__<empty>
+        |   |__404 END
+        |__59 ;

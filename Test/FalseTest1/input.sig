@@ -1,0 +1,4 @@
+PROGRAM ;
+    LABEL 1;
+    BEGIN
+    END.

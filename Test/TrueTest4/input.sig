@@ -1,0 +1,5 @@
+PROCEDURE KKL();
+
+BEGIN
+
+END;

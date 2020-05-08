@@ -1,0 +1,20 @@
+|PROGRAM     | 401  | 1    | 1    |
+|MSSV        | 1001 | 1    | 9    |
+|;           | 59   | 1    | 13   |
+|LABEL       | 405  | 2    | 5    |
+|11          | 501  | 2    | 11   |
+|,           | 44   | 2    | 13   |
+|25          | 502  | 2    | 15   |
+|,           | 44   | 2    | 17   |
+|30          | 503  | 2    | 19   |
+|;           | 59   | 2    | 21   |
+|BEGIN       | 403  | 3    | 5    |
+Lexer Error: unclosed comment, row 4, column 9
+
+Constant table:
+11 --- 501
+25 --- 502
+30 --- 503
+
+Identifier table:
+MSSV --- 1001
